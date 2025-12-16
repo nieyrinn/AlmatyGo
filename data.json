@@ -1,0 +1,84 @@
+{
+  "categories": [
+    {
+      "id": "nature",
+      "title": "Nature & Outdoors",
+      "places": [
+        { "id": "kok-tobe", "name": "Kok-Tobe Hill", "type": "park", "address": "Kok-Tobe Hill, Almaty", "open_hours": "10:00–23:00", "rush_hours": "18:00–21:00", "price_level": 2, "avg_price": 3000 },
+        { "id": "medeu", "name": "Medeu Skating Rink", "type": "outdoor", "address": "Gornaya St. 465, Almaty", "open_hours": "09:00–20:00", "rush_hours": "11:00–15:00", "price_level": 1, "avg_price": 1500 },
+        { "id": "shymbulak", "name": "Shymbulak Ski Resort", "type": "outdoor", "address": "Zailiysky Alatau, Almaty", "open_hours": "09:00–18:00", "rush_hours": "10:00–14:00", "price_level": 3, "avg_price": 8000 },
+        { "id": "big-almaty-lake", "name": "Big Almaty Lake", "type": "nature", "address": "Big Almaty Lake Area", "open_hours": "08:00–20:00", "rush_hours": "12:00–16:00", "price_level": 1, "avg_price": 2000 },
+        { "id": "first-president-park", "name": "First President Park", "type": "park", "address": "Al-Farabi Ave, Almaty", "open_hours": "06:00–23:00", "rush_hours": "17:00–20:00", "price_level": 0, "avg_price": 0 },
+        { "id": "terrencur", "name": "Terrenkur Trail", "type": "park", "address": "Dostyk Ave, Almaty", "open_hours": "06:00–23:00", "rush_hours": "18:00–20:00", "price_level": 0, "avg_price": 0 },
+        { "id": "sairan-lake", "name": "Sairan Lake Park", "type": "park", "address": "Sairan Lake, Almaty", "open_hours": "06:00–22:00", "rush_hours": "17:00–20:00", "price_level": 0, "avg_price": 0 },
+        { "id": "butakovka", "name": "Butakovka Gorge", "type": "nature", "address": "Butakovka Area, Almaty", "open_hours": "08:00–19:00", "rush_hours": "11:00–15:00", "price_level": 1, "avg_price": 2000 },
+        { "id": "ayusai", "name": "Ayusai Gorge", "type": "nature", "address": "Ayusai, Almaty", "open_hours": "08:00–18:00", "rush_hours": "10:00–14:00", "price_level": 1, "avg_price": 2000 },
+        { "id": "talgar-pass", "name": "Talgar Pass", "type": "nature", "address": "Talgar Area, Almaty Region", "open_hours": "08:00–18:00", "rush_hours": "11:00–15:00", "price_level": 1, "avg_price": 2500 }
+      ]
+    },
+    {
+      "id": "food",
+      "title": "Food & Cafes",
+      "places": [
+        { "id": "navat", "name": "Navat", "type": "restaurant", "address": "Dostyk Ave 132, Almaty", "open_hours": "10:00–00:00", "rush_hours": "19:00–21:00", "price_level": 3, "avg_price": 7000 },
+        { "id": "coffeeboom", "name": "Coffeeboom", "type": "cafe", "address": "Abay Ave 109, Almaty", "open_hours": "08:00–23:00", "rush_hours": "08:00–10:00", "price_level": 2, "avg_price": 3500 },
+        { "id": "gakku", "name": "Gakku Restaurant", "type": "restaurant", "address": "Tole Bi St 71, Almaty", "open_hours": "11:00–23:00", "rush_hours": "18:00–20:00", "price_level": 2, "avg_price": 5000 },
+        { "id": "auyl", "name": "Auyl", "type": "restaurant", "address": "Kunayev St 114, Almaty", "open_hours": "12:00–23:00", "rush_hours": "19:00–21:00", "price_level": 3, "avg_price": 8000 },
+        { "id": "del-papa", "name": "Del Papa", "type": "restaurant", "address": "Panfilov St 98, Almaty", "open_hours": "11:00–23:00", "rush_hours": "18:00–21:00", "price_level": 3, "avg_price": 9000 },
+        { "id": "hardees", "name": "Hardee’s", "type": "fastfood", "address": "MEGA Mall, Almaty", "open_hours": "10:00–22:00", "rush_hours": "13:00–15:00", "price_level": 1, "avg_price": 3000 },
+        { "id": "korean-house", "name": "Korean House", "type": "restaurant", "address": "Baitursynov St 56, Almaty", "open_hours": "11:00–22:00", "rush_hours": "18:00–20:00", "price_level": 2, "avg_price": 6000 },
+        { "id": "paulaner", "name": "Paulaner Brauhaus", "type": "restaurant", "address": "Abay Ave 109, Almaty", "open_hours": "12:00–00:00", "rush_hours": "19:00–22:00", "price_level": 3, "avg_price": 10000 },
+        { "id": "chaihona", "name": "Chaihona No.1", "type": "restaurant", "address": "Kabanbay Batyr St 83, Almaty", "open_hours": "10:00–00:00", "rush_hours": "19:00–21:00", "price_level": 3, "avg_price": 7500 },
+        { "id": "lagman-house", "name": "Lagman House", "type": "restaurant", "address": "Seifullin Ave 500, Almaty", "open_hours": "10:00–22:00", "rush_hours": "13:00–15:00", "price_level": 1, "avg_price": 2500 }
+      ]
+    },
+    {
+      "id": "culture",
+      "title": "Culture & Museums",
+      "places": [
+        { "id": "central-museum", "name": "Central State Museum", "type": "museum", "address": "Samal-1, 44, Almaty", "open_hours": "09:30–17:30", "rush_hours": "11:00–14:00", "price_level": 1, "avg_price": 1000 },
+        { "id": "kasteev", "name": "Kasteev Museum of Arts", "type": "museum", "address": "Satpayev St 22, Almaty", "open_hours": "10:00–18:00", "rush_hours": "12:00–15:00", "price_level": 1, "avg_price": 1200 },
+        { "id": "opera", "name": "Abay Opera and Ballet Theatre", "type": "theatre", "address": "Kabanbay Batyr St 110, Almaty", "open_hours": "18:00–22:00", "rush_hours": "18:30–19:30", "price_level": 3, "avg_price": 9000 },
+        { "id": "drama", "name": "Russian Drama Theatre", "type": "theatre", "address": "Abylai Khan Ave 43, Almaty", "open_hours": "18:00–22:00", "rush_hours": "18:30–19:30", "price_level": 2, "avg_price": 6000 },
+        { "id": "folk-museum", "name": "Museum of Folk Instruments", "type": "museum", "address": "Panfilov Park, Almaty", "open_hours": "10:00–18:00", "rush_hours": "12:00–14:00", "price_level": 1, "avg_price": 800 },
+        { "id": "esentai-gallery", "name": "Esentai Gallery", "type": "gallery", "address": "Al-Farabi Ave 77, Almaty", "open_hours": "10:00–22:00", "rush_hours": "18:00–20:00", "price_level": 2, "avg_price": 4000 },
+        { "id": "art-center", "name": "Almaty Art Center", "type": "gallery", "address": "Zheltoksan St 137, Almaty", "open_hours": "11:00–19:00", "rush_hours": "16:00–18:00", "price_level": 1, "avg_price": 2000 },
+        { "id": "literature-museum", "name": "Literature Museum", "type": "museum", "address": "Bogenbay Batyr St 44, Almaty", "open_hours": "10:00–18:00", "rush_hours": "12:00–14:00", "price_level": 1, "avg_price": 700 },
+        { "id": "cinema-house", "name": "Cinema House", "type": "culture", "address": "Kunayev St 50, Almaty", "open_hours": "12:00–22:00", "rush_hours": "18:00–21:00", "price_level": 2, "avg_price": 3000 },
+        { "id": "youth-theatre", "name": "Youth Theatre (TYUZ)", "type": "theatre", "address": "Baizakov St 280, Almaty", "open_hours": "17:00–21:00", "rush_hours": "18:00–19:00", "price_level": 1, "avg_price": 2000 }
+      ]
+    },
+    {
+      "id": "entertainment",
+      "title": "Entertainment",
+      "places": [
+        { "id": "mega", "name": "MEGA Alma-Ata Mall", "type": "mall", "address": "Rozibakiev St 247A, Almaty", "open_hours": "10:00–22:00", "rush_hours": "17:00–20:00", "price_level": 2, "avg_price": 6000 },
+        { "id": "lumiera", "name": "Lumiera Cinema", "type": "cinema", "address": "Abay Ave 109, Almaty", "open_hours": "10:00–02:00", "rush_hours": "19:00–22:00", "price_level": 3, "avg_price": 5000 },
+        { "id": "chaplin", "name": "Chaplin Cinemas", "type": "cinema", "address": "MEGA Mall, Almaty", "open_hours": "10:00–01:00", "rush_hours": "19:00–22:00", "price_level": 2, "avg_price": 4000 },
+        { "id": "bowling", "name": "Bowling Center", "type": "games", "address": "Dostyk Plaza, Almaty", "open_hours": "12:00–00:00", "rush_hours": "18:00–22:00", "price_level": 2, "avg_price": 5000 },
+        { "id": "quest-room", "name": "Quest Room", "type": "games", "address": "Satpayev St 90, Almaty", "open_hours": "10:00–00:00", "rush_hours": "18:00–21:00", "price_level": 2, "avg_price": 6000 },
+        { "id": "vr-club", "name": "VR Club", "type": "games", "address": "Abay Ave 150, Almaty", "open_hours": "11:00–23:00", "rush_hours": "18:00–21:00", "price_level": 2, "avg_price": 7000 },
+        { "id": "ice-arena", "name": "Ice Arena", "type": "sport", "address": "Alatau District, Almaty", "open_hours": "10:00–22:00", "rush_hours": "17:00–20:00", "price_level": 1, "avg_price": 3000 },
+        { "id": "karting", "name": "Karting Track", "type": "sport", "address": "Seifullin Ave 617, Almaty", "open_hours": "12:00–22:00", "rush_hours": "18:00–21:00", "price_level": 3, "avg_price": 8000 },
+        { "id": "aquapark", "name": "Hawaii Aquapark", "type": "water", "address": "Orbita District, Almaty", "open_hours": "10:00–21:00", "rush_hours": "13:00–17:00", "price_level": 3, "avg_price": 10000 },
+        { "id": "night-club", "name": "Night Club", "type": "club", "address": "City Center, Almaty", "open_hours": "22:00–05:00", "rush_hours": "23:00–02:00", "price_level": 3, "avg_price": 12000 }
+      ]
+    },
+    {
+      "id": "walks",
+      "title": "City Walks",
+      "places": [
+        { "id": "panfilov", "name": "Panfilov Park", "type": "park", "address": "Gogol St, Almaty", "open_hours": "06:00–23:00", "rush_hours": "17:00–20:00", "price_level": 0, "avg_price": 0 },
+        { "id": "arbat", "name": "Arbat Street", "type": "street", "address": "Zhibek Zholy St, Almaty", "open_hours": "24/7", "rush_hours": "18:00–21:00", "price_level": 0, "avg_price": 0 },
+        { "id": "dostyk", "name": "Dostyk Avenue", "type": "street", "address": "Dostyk Ave, Almaty", "open_hours": "24/7", "rush_hours": "18:00–20:00", "price_level": 0, "avg_price": 0 },
+        { "id": "green-bazaar", "name": "Green Bazaar", "type": "market", "address": "Zhibek Zholy St 53, Almaty", "open_hours": "09:00–18:00", "rush_hours": "11:00–14:00", "price_level": 1, "avg_price": 2000 },
+        { "id": "sairan-walk", "name": "Sairan Embankment", "type": "walk", "address": "Sairan Lake, Almaty", "open_hours": "06:00–22:00", "rush_hours": "17:00–20:00", "price_level": 0, "avg_price": 0 },
+        { "id": "botanical", "name": "Botanical Garden", "type": "park", "address": "Timiryazev St 36, Almaty", "open_hours": "09:00–19:00", "rush_hours": "12:00–16:00", "price_level": 1, "avg_price": 1000 },
+        { "id": "esentai-river", "name": "Esentai River Walk", "type": "walk", "address": "Along Esentai River, Almaty", "open_hours": "24/7", "rush_hours": "18:00–20:00", "price_level": 0, "avg_price": 0 },
+        { "id": "old-center", "name": "Old City Center", "type": "walk", "address": "Central Almaty", "open_hours": "24/7", "rush_hours": "18:00–21:00", "price_level": 0, "avg_price": 0 },
+        { "id": "kok-zhailau", "name": "Kok-Zhailau Plateau", "type": "nature", "address": "Mountain Area, Almaty", "open_hours": "08:00–18:00", "rush_hours": "11:00–15:00", "price_level": 1, "avg_price": 2500 },
+        { "id": "viewpoints", "name": "City Viewpoints", "type": "walk", "address": "Southern Almaty", "open_hours": "24/7", "rush_hours": "19:00–21:00", "price_level": 0, "avg_price": 0 }
+      ]
+    }
+  ]
+}
